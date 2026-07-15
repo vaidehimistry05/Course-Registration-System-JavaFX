@@ -1,0 +1,10 @@
+Aarav Patel,Student,9876543210,aarav.patel@example.com,L.D. College of Engineering,Bachelor's Degree,Java Programming
+Priya Shah,Student,9123456789,priya.shah@example.com,CK Pithawala College,Bachelor's Degree,Python
+Rohan Mehta,Teacher,9988776655,rohan.mehta@example.com,Government Engineering College,Master's Degree,Data Science
+Neha Joshi,Student,9012345678,neha.joshi@example.com,UKA Tarsadia University,Bachelor's Degree,Machine Learning
+Karan Desai,Other,9098765432,karan.desai@example.com,Silver Oak University,Diploma,Database Management System
+Ananya Patel,Student,9811122233,ananya.patel@example.com,Nirma University,Bachelor's Degree,Python
+Vivek Kumar,Teacher,9871234567,vivek.kumar@example.com,Gujarat Technological University,PhD,Java Programming
+Sneha Iyer,Student,9765432109,sneha.iyer@example.com,Parul University,Master's Degree,Data Science
+Rahul Verma,Other,9955667788,rahul.verma@example.com,Charusat University,Diploma,Machine Learning
+Meera Nair,Student,9887654321,meera.nair@example.com,Dharmsinh Desai University,Bachelor's Degree,Database Management System
